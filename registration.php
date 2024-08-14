@@ -1,0 +1,1 @@
+Your name:<?php echo $_POST["name"];?>
